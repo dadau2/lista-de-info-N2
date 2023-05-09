@@ -1,2 +1,2 @@
 # lista de info N2
- resolução da lista
+ resolução de todas as questôes da lista.
